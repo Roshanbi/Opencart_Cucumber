@@ -1,0 +1,194 @@
+16:02:26.327 [main] INFO  - Go to My Account--> Click on Login..
+16:02:26.959 [main] INFO  - Entering email and password
+16:02:27.737 [main] INFO  - Clicked on Login button..
+16:18:04.705 [main] INFO  - Go to My Account--> Click on Login..
+16:18:05.472 [main] INFO  - Entering email and password
+16:18:06.326 [main] INFO  - Clicked on Login button..
+13:09:59.979 [main] INFO  - Go to My Account--> Click on Login..
+13:10:00.403 [main] INFO  - Entering email and password
+13:10:01.011 [main] INFO  - Clicked on Login button..
+13:10:02.796 [main] INFO  - Go to My Account--> Click on Login..
+13:10:03.614 [main] INFO  - Entering email and password
+13:10:04.181 [main] INFO  - Clicked on Login button..
+13:12:28.395 [main] INFO  - Go to My Account--> Click on Login..
+13:12:28.873 [main] INFO  - Entering email and password
+13:12:29.475 [main] INFO  - Clicked on Login button..
+13:12:31.218 [main] INFO  - Go to My Account--> Click on Login..
+13:12:32.198 [main] INFO  - Entering email and password
+13:12:32.758 [main] INFO  - Clicked on Login button..
+14:31:21.752 [main] INFO  - Go to My Account--> Click on Login..
+14:31:22.684 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:31:22.688 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:31:22.692 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:31:22.997 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:31:23.003 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:31:23.005 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:31:23.006 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:31:23.007 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:31:23.011 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:31:23.027 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:31:23.028 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:31:23.033 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:31:23.035 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:31:23.036 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:31:23.037 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:31:23.038 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:31:23.039 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+14:31:23.119 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:31:23.120 [main] TRACE - Resolving type for handle themefd26doctype
+14:31:23.198 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+14:31:23.207 [main] TRACE - Resolving type for handle ctstylesheet4257type
+14:31:23.213 [main] TRACE - Resolving type for handle ctfonts6623type
+14:31:23.218 [main] TRACE - Resolving type for handle ctfont14d8type
+14:31:23.224 [main] TRACE - Resolving type for handle ctfills2c6ftype
+14:31:23.228 [main] TRACE - Resolving type for handle ctfill550ctype
+14:31:23.232 [main] TRACE - Resolving type for handle ctborders0d66type
+14:31:23.236 [main] TRACE - Resolving type for handle ctborderf935type
+14:31:23.240 [main] TRACE - Resolving type for handle ctcellxfs1322type
+14:31:23.243 [main] TRACE - Resolving type for handle ctxf97f7type
+14:31:23.248 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+14:31:23.251 [main] TRACE - Resolving type for handle ctdxfsb26atype
+14:31:23.256 [main] TRACE - Resolving type for handle cttablestyles872ftype
+14:31:23.260 [main] TRACE - Resolving type for handle sstf81fdoctype
+14:31:23.265 [main] TRACE - Resolving type for handle ctsst44f3type
+14:31:23.277 [main] TRACE - Resolving type for handle ctrsta472type
+14:31:23.305 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:31:23.307 [main] TRACE - Resolving type for handle workbookec17doctype
+14:31:23.315 [main] TRACE - Resolving type for handle ctworkbook83c3type
+14:31:23.323 [main] TRACE - Resolving type for handle ctsheets49fdtype
+14:31:23.329 [main] TRACE - Resolving type for handle ctsheet4dbetype
+14:31:23.333 [main] TRACE - Resolving type for handle strelationshipid1e94type
+14:31:23.338 [main] TRACE - Resolving type for handle worksheetf539doctype
+14:31:23.348 [main] TRACE - Resolving type for handle ctworksheet530dtype
+14:31:23.364 [main] TRACE - Resolving type for handle ctcols627ctype
+14:31:23.373 [main] TRACE - Resolving type for handle ctcola95ftype
+14:31:23.400 [main] TRACE - Resolving type for handle ctsheetdata8408type
+14:31:23.406 [main] TRACE - Resolving type for handle ctrowdd39type
+14:31:23.415 [main] TRACE - Resolving type for handle ctcell842btype
+14:31:23.426 [main] TRACE - Resolving type for handle stcellrefe4e0type
+14:31:23.434 [main] TRACE - Resolving type for handle cthyperlinks6416type
+14:31:23.439 [main] TRACE - Resolving type for handle cthyperlink0c85type
+14:31:23.452 [main] TRACE - Resolving type for handle stxstringf179type
+14:31:23.456 [main] TRACE - Resolving type for handle stcelltypebf95type
+14:31:26.664 [main] INFO  - Go to My Account--> Click on Login..
+14:31:27.540 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:31:27.541 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:31:27.543 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:31:27.563 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:31:40.235 [main] INFO  - Go to My Account--> Click on Login..
+14:31:41.480 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:31:41.483 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:31:41.486 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:31:41.510 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:31:54.612 [main] INFO  - Go to My Account--> Click on Login..
+14:31:55.847 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:31:55.849 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:31:55.853 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:31:55.877 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:32:08.811 [main] INFO  - Go to My Account--> Click on Login..
+14:32:09.962 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:32:09.968 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:32:09.971 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:32:09.991 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:32:13.737 [main] INFO  - Go to My Account--> Click on Login..
+14:32:14.836 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:32:14.837 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:32:14.838 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:32:14.852 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:35:26.945 [main] INFO  - Go to My Account--> Click on Login..
+14:35:27.784 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:27.787 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:27.790 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:35:27.968 [main] TRACE - Loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:35:27.971 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:35:27.972 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:35:27.972 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:35:27.973 [main] TRACE - Loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:35:27.974 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:35:27.989 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLTOOLS
+14:35:27.990 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:35:27.997 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLSCHEMA
+14:35:28.000 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:35:28.001 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLLANG
+14:35:28.002 [main] TRACE - Reading unresolved handles for type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:35:28.003 [main] TRACE - Finished loading type system org.apache.xmlbeans.metadata.system.sXMLCONFIG
+14:35:28.004 [main] TRACE - Reading unresolved handles for type system org.apache.poi.schemas.ooxml.system.ooxml
+14:35:28.083 [main] TRACE - Finished loading type system org.apache.poi.schemas.ooxml.system.ooxml
+14:35:28.084 [main] TRACE - Resolving type for handle themefd26doctype
+14:35:28.163 [main] TRACE - Resolving type for handle stylesheet5d8bdoctype
+14:35:28.170 [main] TRACE - Resolving type for handle ctstylesheet4257type
+14:35:28.175 [main] TRACE - Resolving type for handle ctfonts6623type
+14:35:28.179 [main] TRACE - Resolving type for handle ctfont14d8type
+14:35:28.185 [main] TRACE - Resolving type for handle ctfills2c6ftype
+14:35:28.188 [main] TRACE - Resolving type for handle ctfill550ctype
+14:35:28.194 [main] TRACE - Resolving type for handle ctborders0d66type
+14:35:28.198 [main] TRACE - Resolving type for handle ctborderf935type
+14:35:28.203 [main] TRACE - Resolving type for handle ctcellxfs1322type
+14:35:28.210 [main] TRACE - Resolving type for handle ctxf97f7type
+14:35:28.214 [main] TRACE - Resolving type for handle ctcellstylexfsa81ftype
+14:35:28.216 [main] TRACE - Resolving type for handle ctdxfsb26atype
+14:35:28.219 [main] TRACE - Resolving type for handle cttablestyles872ftype
+14:35:28.222 [main] TRACE - Resolving type for handle sstf81fdoctype
+14:35:28.226 [main] TRACE - Resolving type for handle ctsst44f3type
+14:35:28.234 [main] TRACE - Resolving type for handle ctrsta472type
+14:35:28.255 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:35:28.256 [main] TRACE - Resolving type for handle workbookec17doctype
+14:35:28.261 [main] TRACE - Resolving type for handle ctworkbook83c3type
+14:35:28.266 [main] TRACE - Resolving type for handle ctsheets49fdtype
+14:35:28.268 [main] TRACE - Resolving type for handle ctsheet4dbetype
+14:35:28.270 [main] TRACE - Resolving type for handle strelationshipid1e94type
+14:35:28.272 [main] TRACE - Resolving type for handle worksheetf539doctype
+14:35:28.279 [main] TRACE - Resolving type for handle ctworksheet530dtype
+14:35:28.289 [main] TRACE - Resolving type for handle ctcols627ctype
+14:35:28.293 [main] TRACE - Resolving type for handle ctcola95ftype
+14:35:28.311 [main] TRACE - Resolving type for handle ctsheetdata8408type
+14:35:28.313 [main] TRACE - Resolving type for handle ctrowdd39type
+14:35:28.318 [main] TRACE - Resolving type for handle ctcell842btype
+14:35:28.325 [main] TRACE - Resolving type for handle stcellrefe4e0type
+14:35:28.331 [main] TRACE - Resolving type for handle cthyperlinks6416type
+14:35:28.334 [main] TRACE - Resolving type for handle cthyperlink0c85type
+14:35:28.341 [main] TRACE - Resolving type for handle stxstringf179type
+14:35:28.343 [main] TRACE - Resolving type for handle stcelltypebf95type
+14:35:31.417 [main] INFO  - Go to My Account--> Click on Login..
+14:35:31.938 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:31.942 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:31.945 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:35:31.968 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:35:45.195 [main] INFO  - Go to My Account--> Click on Login..
+14:35:46.378 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:35:46.380 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:35:46.383 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:35:46.411 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:35:59.686 [main] INFO  - Go to My Account--> Click on Login..
+14:36:00.836 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:36:00.837 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:36:00.839 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:36:00.860 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:36:13.959 [main] INFO  - Go to My Account--> Click on Login..
+14:36:15.063 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:36:15.064 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:36:15.067 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:36:15.084 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:36:18.976 [main] INFO  - Go to My Account--> Click on Login..
+14:36:19.994 [main] DEBUG - Parsing relationship: /xl/_rels/workbook.xml.rels
+14:36:19.996 [main] DEBUG - Parsing relationship: /xl/worksheets/_rels/sheet1.xml.rels
+14:36:19.998 [main] DEBUG - Parsing relationship: /_rels/.rels
+14:36:20.012 [main] DEBUG - using default POIXMLDocumentPart for http://schemas.openxmlformats.org/officeDocument/2006/relationships/printerSettings
+14:45:21.749 [main] INFO  - Go to My Account--> Click on Login..
+14:45:22.233 [main] INFO  - Entering email and password
+14:45:22.868 [main] INFO  - Clicked on Login button..
+14:46:48.434 [main] INFO  - Go to My Account--> Click on Login..
+14:46:48.930 [main] INFO  - Entering email and password
+14:46:49.617 [main] INFO  - Clicked on Login button..
+14:55:24.598 [main] INFO  - Go to My Account--> Click on Login..
+14:55:25.164 [main] INFO  - Entering email and password
+14:55:25.983 [main] INFO  - Clicked on Login button..
+15:15:26.841 [main] INFO  - Go to My Account--> Click on Login..
+15:15:27.561 [main] INFO  - Entering email and password
+15:15:28.993 [main] INFO  - Clicked on Login button..
+15:18:36.334 [main] INFO  - Go to My Account--> Click on Login..
+15:18:36.785 [main] INFO  - Entering email and password
+15:18:37.444 [main] INFO  - Clicked on Login button..
+15:24:02.893 [main] INFO  - Go to My Account--> Click on Login..
+15:24:03.321 [main] INFO  - Entering email and password
+15:24:03.971 [main] INFO  - Clicked on Login button..
