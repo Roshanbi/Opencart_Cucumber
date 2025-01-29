@@ -2,9 +2,7 @@ package pageObjects;
 
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
-import org.openqa.selenium.chrome.ChromeDriver;
 import org.openqa.selenium.support.FindBy;
-import org.openqa.selenium.support.PageFactory;
 
 public class HomePage extends BasePage {
 
@@ -25,7 +23,7 @@ public class HomePage extends BasePage {
 	@FindBy(xpath ="//a[normalize-space()='Register']")
 	WebElement lnkRegister;
 	
-	@FindBy(linkText = "Login")//for login
+	@FindBy(xpath="//ul[@class='dropdown-menu dropdown-menu-right']//a[normalize-space()='Login']")
 	WebElement lnkLogin;
 	
 	@FindBy(xpath=" //input[@placeholder='Search']")//for search product test

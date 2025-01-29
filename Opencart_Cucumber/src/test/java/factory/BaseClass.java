@@ -1,4 +1,4 @@
-package factory;
+	package factory;
 
 import java.io.FileReader;
 import java.io.IOException;
@@ -19,9 +19,9 @@ import org.openqa.selenium.remote.RemoteWebDriver;
 
 public class BaseClass {
 
-	static WebDriver driver;
-	static Properties p;
-	static Logger logger;
+	 static WebDriver driver;
+	 static Properties p;
+	 static Logger logger;
 
 	public static WebDriver initializeBrowser() throws IOException {
 
@@ -97,7 +97,7 @@ public class BaseClass {
 		return driver;
 	}
 
-	public static Properties getProperties() throws IOException {
+	public static Properties getProperties() throws IOException  {
 		FileReader file = new FileReader(System.getProperty("user.dir") + "\\src\\test\\resources\\config.properties");
 
 		p = new Properties();

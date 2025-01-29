@@ -29,13 +29,13 @@ public class Hooks {
 	}
 
 	@After
-	public void tearDown() {
+	public void tearDown(Scenario scenario) {
 		driver.quit();
 	}
 
 	@AfterStep
 	public void addScreenshot(Scenario scenario) {
-		// this is for cucumber junit report
+		// this screenshot method is for cucumber junit report
 		if (scenario.isFailed()) {
 
 			TakesScreenshot ts = (TakesScreenshot) driver;
