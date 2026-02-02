@@ -20,7 +20,6 @@ public class LoginSteps {
 	HomePage hp;
 	LoginPage lp;
 	MyAccountPage macc;
-
 	List<HashMap<String, String>> datamap; // Data driven
 
 	@Given("the user navigates to login page")
@@ -63,7 +62,7 @@ public class LoginSteps {
 		datamap = DataReader.data(System.getProperty("user.dir") + "\\testData\\Opencart_LoginData.xlsx", "Sheet1");
 
 		int index = Integer.parseInt(rows) - 1;
-		String email = datamap.get(index).get("username");
+		String email = datamap.get(index).get("username");//key and value pairs so calling key
 		String pwd = datamap.get(index).get("password");
 		String exp_res = datamap.get(index).get("res");
 

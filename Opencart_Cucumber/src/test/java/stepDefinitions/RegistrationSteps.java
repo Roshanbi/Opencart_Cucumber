@@ -36,7 +36,7 @@ public class RegistrationSteps {
 		regPage = new AccountRegistrationPage(BaseClass.getDriver());
 		regPage.setFirstName(dataMap.get("firstName"));
 		regPage.setLastName(dataMap.get("lastName"));
-		regPage.setEmail(BaseClass.randomString()+"@gamil.com");
+		regPage.setEmail(BaseClass.randomString()+"@gmail.com");
 		regPage.setTelephone(dataMap.get("telephone"));
 		regPage.setPassword(dataMap.get("password"));
 		regPage.setConfirmPassword(dataMap.get("password"));
